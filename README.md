@@ -1,0 +1,4 @@
+# GIS
+Geospatial data to plot the path of Hurricane Florence
+Spatial data, Geospatial data, GIS data or geodata, are names for numeric data that identifies the geographical location of a physical object such as a building, a street, a town, a city, a country, etc. according to a geographic coordinate system. From the spatial data, you can find out not only the location but also the length, size, area or shape of any object. An example of a kind of spatial data that you can get are: coordinates of an object such as latitude, longitude, and elevation. Geographic Information Systems (GIS) or other specialized software applications can be used to access, visualize, manipulate and analyze geospatial data.
+Geospatial data has a vast number of applications in our daily life. One example is the Maps application that you use to navigate from one location to the others. Another one that you may see every day is on the weather channel.
